@@ -1,3 +1,4 @@
+#ifconfig /sbin/ifconfig
 eth0      Link encap:Ethernet  HWaddr f4:4d:30:55:61:ef  
           inet addr:192.168.1.20  Bcast:192.168.3.255  Mask:255.255.252.0
           inet6 addr: fe80::f64d:30ff:fe55:61ef/64 Scope:Link
